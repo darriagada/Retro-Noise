@@ -4,7 +4,7 @@ A collection of animated vintage grit textures.
 Based on my previous texture project, I did some animated versions to use on motion work. If you want to give your videos some sort of _vintage cartoon-film noise_ you can work with some of these overlays.
 
 ### Download
-You can download the entire repository here — Current version is 1.0
+You can download the [latest release here](https://github.com/darriagada/vintage-grit-textures/releases) — Current version is **1.0**
 
 ### References
 These are some samples that you can find inside.
