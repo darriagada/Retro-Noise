@@ -18,5 +18,6 @@ These are some samples that you can find inside.
 ## To-do
 - [ ] Write some wiki suff
 - [ ] Quick start video tutorials
-- [ ] Write a README
+- [x] Write a README
+- [ ] Polish them textures 
 - [x] This list
