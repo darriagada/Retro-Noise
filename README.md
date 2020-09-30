@@ -9,7 +9,7 @@ You can download the [latest release here](https://github.com/darriagada/vintage
 ### References
 These are some samples that you can find inside. You can also [see them in action here](https://vimeo.com/462230867).
 
-![Sampler](https://github.com/darriagada/vintage-grit-textures/blob/master/assets/sampler_test.gif)
+![Sampler](https://github.com/darriagada/vintage-grit-textures/blob/master/_assets/sampler_mono.gif)
 
 ### Recommended Software
 * I recommend **Adobe After Effects** or any other video compositing software that uses blending modes.
