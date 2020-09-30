@@ -1,6 +1,6 @@
 # Ignore the doc assets #
 ######################
-assets/
+_assets/
 
 # OS generated files #
 ######################
