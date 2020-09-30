@@ -26,6 +26,6 @@ _(*): By default these are 30fps but you can ramp or slow the speed as much as y
 
 ## To-do
 - [ ] Wiki + simple video tutorials
-- [x] Upres to 2K
+- [x] Up-res to 2K
 - [ ] Up-res to 4K
 - [x] Write a README
