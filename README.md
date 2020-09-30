@@ -16,7 +16,7 @@ These are some samples that you can find inside. You can also [see them in actio
 * If you want to edit the textures files to create your own versions, you can use **Adobe Photoshop** or any other image editing software that can handle PSD files.
 
 ### Specs
-- 1920x1080
+- 1080p, 2K
 - MP4 format
 - Monochrome
 - FPS agnostic*
