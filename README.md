@@ -18,14 +18,13 @@ These are some samples that you can find inside. You can also [see them in actio
 ### Specs
 - 1080p, 2K & 4K
 - MP4 format
-- Monochrome
 - FPS agnostic*
 
 _(*): By default these are 30fps but you can ramp or slow the speed as much as you need._
 
 
 ## To-do
-- [ ] Wiki + simple video tutorials
+- [ ] Wiki
 - [x] Up-res to 2K
 - [x] Up-res to 4K
 - [x] Write a README
