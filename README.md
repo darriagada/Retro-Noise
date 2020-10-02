@@ -12,8 +12,8 @@ These are some samples that you can find inside. You can also [see them in actio
 ![Sampler](https://github.com/darriagada/vintage-grit-textures/blob/master/_assets/sampler_mono.gif)
 
 ### Recommended Software
-* I recommend **Adobe After Effects** or any other video compositing software that uses blending modes.
-* If you want to edit the textures files to create your own versions, you can use **Adobe Photoshop** or any other image editing software that can handle PSD files.
+* I recommend **Adobe After Effects** or any other video compositing software that supports blending modes.
+* If you want to edit the textures files to create your own versions, you can use **Adobe Photoshop** or any other image editing software that can handle PSD files to edit each frame.
 
 ### Specs
 - 1080p, 2K & 4K
