@@ -16,9 +16,9 @@ These are some samples that you can find inside. You can also [see them in actio
 * If you want to edit the textures files to create your own versions, you can use **Adobe Photoshop** or any other image editing software that can handle PSD files to edit each frame.
 
 ### Specs
-- 1080p, 2K & 4K
-- MP4 format
-- FPS agnostic*
+- **Resolutions:** 1080p, 2K & 4K
+- **Format:** MP4 container
+- **Speed:** FPS agnostic*
 
 _(*): By default these are 30fps but you can ramp or slow the speed as much as you need._
 
