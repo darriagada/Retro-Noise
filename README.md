@@ -4,7 +4,7 @@ A collection of animated vintage grit textures.
 Based on my previous [grunge textures pack](https://github.com/darriagada/Gritkit), you can use these as overlays in your videos to give them a more retro dirty look just by drag & drop and little tweaking.
 
 ### Download
-You can download the [latest release here](https://github.com/darriagada/vintage-grit-textures/releases) — Current version is **1.0**
+You can download the [latest release here](https://github.com/darriagada/vintage-grit-textures/releases/latest) — Current version is **1.0**
 
 ### References
 These are some samples that you can find inside. You can also [see them in action here](https://vimeo.com/462230867).
