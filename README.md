@@ -3,15 +3,15 @@ A collection of animated vintage grit textures.
 
 Based on my previous [grunge textures pack](https://github.com/darriagada/Gritkit), you can use these as overlays in your videos to give them a more retro dirty look just by drag & drop and little tweaking.
 
-![Hero Logo](https://github.com/darriagada/vintage-grit-textures/blob/master/_assets/git_hero.png)
+![Hero Logo](https://github.com/darriagada/vintage-noise-textures/blob/master/_assets/git_hero.png)
 
 ### Download
-You can download the [latest release here](https://github.com/darriagada/vintage-grit-textures/releases/latest) — Current version is **1.0**
+You can download the [latest release here](https://github.com/darriagada/vintage-noise-textures/releases/latest) — Current version is **1.0**
 
 ### References
 These are some samples that you can find inside. You can also [see them in action here](https://vimeo.com/462230867).
 
-![Sampler](https://github.com/darriagada/vintage-grit-textures/blob/master/_assets/sampler_mono.gif)
+![Sampler](https://github.com/darriagada/vintage-noise-textures/blob/master/_assets/sampler_mono.gif)
 
 ### Recommended Software
 * I recommend **Adobe After Effects** or any other video compositing software that supports blending modes.
