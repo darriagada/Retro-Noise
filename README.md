@@ -1,5 +1,5 @@
 # Vintage Noise Textures
-A collection of animated vintage grit textures.
+A collection of animated noise textures.
 
 Based on my previous [grunge textures pack](https://github.com/darriagada/Gritkit), you can use these as overlays in your videos to give them a more retro dirty look just by drag & drop and little tweaking.
 
