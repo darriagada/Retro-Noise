@@ -4,7 +4,12 @@ A collection of animated noise textures.
 Based on my previous [grunge textures pack](https://github.com/darriagada/Decay-Textures), you can use these as overlays in your videos to give them a more retro dirty look just by drag & drop and little tweaking.
 
 ### Download
-You can download the [latest release here](https://github.com/darriagada/Retro-Noise/releases/latest) — Current version is **1.0**
+Grab the full [latest release here](https://github.com/darriagada/Retro-Noise/releases/latest) — Current version is **1.0**
+
+You can also download per resolution here:
+- [1080p pack](https://github.com/darriagada/Retro-Noise/releases/download/1.0/RetroNoise_1080_1_0.zip) — **Version 1.0**
+- [2K pack](https://github.com/darriagada/Retro-Noise/releases/download/1.0/RetroNoise_2K_1_0.zip) — **Version 1.0**
+- [4K pack](https://github.com/darriagada/Retro-Noise/releases/download/1.0/RetroNoise_4K_1_0.zip) — **Version 1.0**
 
 ### References
 These are some samples that you can find inside. You can also [see them in action here](https://vimeo.com/462230867).
